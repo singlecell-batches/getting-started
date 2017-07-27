@@ -11,7 +11,10 @@ How to get started with the single cell batches comparison
 
 ## Data and document access
 
-Here are the
+
+1. Fill out [this form](https://goo.gl/forms/0zVJkkl0GKjtSrCL2) with your name,
+   email, and github username so that you're always added to the Calendar
+   events, Google Drive documents, and GitHub repositories
 
 
 ## Git tutorials/Introductions
