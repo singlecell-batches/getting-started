@@ -82,4 +82,5 @@ please [file an issue][issues]
 or [mail us][contact].
 
 [importer]: http://import.github.com/new
-
+[issues]: https://github.com/singlecell-batches/getting-started/issues/new
+[contact]: olga.botvinnik@czbiohub.org
