@@ -26,7 +26,7 @@ How to get started with the single cell batches comparison
    5. Open Science Framework "Single-cell RNA-Seq Batch Effect Algorithm
       Comparison" project ([link](https://osf.io/7xm6k/))
    6. Authorea collaboratively written paper ([link](https://www.authorea.com/191766/WK1b5oyGEjbI9g2LDC4H_A))
-2. Join the Slack Channel! http://singlecell-batches.slack.com
+2. Join the Slack Channel! [singlecell-batches.slack.com invite link (expires 2017-08-26)](https://join.slack.com/t/singlecell-batches/shared_invite/MjE4Njk4NTMwMTY0LTE1MDExNzU0NDQtNTQyYTVkNTM5NA)
 
 ## Meetings
 
