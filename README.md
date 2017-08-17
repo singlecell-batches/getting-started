@@ -52,7 +52,7 @@ US does daylight savings). This is where we discuss
    repositories in a folder called `~/code` so mine is located in
    `~/code/singlecell-batches`, so for me, the commands are:
    ```
-   cd code
+   cd ~/code
    mkdir singlecell-batches
    ```
 2. To make a copy of the folder, you want to use the command `git clone` to
