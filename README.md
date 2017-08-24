@@ -50,7 +50,7 @@ remove the per-group effect.
    5. Open Science Framework "Single-cell RNA-Seq Batch Effect Algorithm
       Comparison" project ([link](https://osf.io/7xm6k/))
    6. Authorea collaboratively written paper ([link](https://www.authorea.com/191766/WK1b5oyGEjbI9g2LDC4H_A))
-2. Join the Slack Channel! http://singlecell-batches.slack.com
+2. Join the Slack Channel! [singlecell-batches.slack.com invite link (expires 2017-08-26)](https://join.slack.com/t/singlecell-batches/shared_invite/MjE4Njk4NTMwMTY0LTE1MDExNzU0NDQtNTQyYTVkNTM5NA)
 
 ## Meetings
 
@@ -166,7 +166,7 @@ $ aws s3 ls --human-readable --recursive s3://singlecell-batches/fibroblasts/pub
    repositories in a folder called `~/code` so mine is located in
    `~/code/singlecell-batches`, so for me, the commands are:
    ```
-   cd code
+   cd ~/code
    mkdir singlecell-batches
    ```
 2. To make a copy of the folder, you want to use the command `git clone` to
