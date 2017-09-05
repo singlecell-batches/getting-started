@@ -149,6 +149,18 @@ IF you want to look at all the files and their subdirectories, use:
 $ aws s3 ls --human-readable --recursive s3://singlecell-batches/fibroblasts/public-bulk/
 ```
 
+To copy ALL the files (**not recommended** as this is 5.2 TB - terabytes), do:
+
+```
+aws s3 cp --region us-east-2 s3://singlecell-batches/fibroblasts/public-bulk/ . --recursive
+```
+
+To only copy the text files (*recommended*), use the `--exclude "*"` flag to remove all files, and then selectively add the `*.txt` files from htseq, the `*.out` files from STAR, and the `*family.soft.gz` files from SRA:
+
+```
+aws s3 cp --region us-east-2 s3://singlecell-batches/fibroblasts/public-bulk/ . --recursive --exclude "*" --include "*.txt" --include "*.csv" --include "*.out" --include "*family.soft.gz"
+```
+
 ## Git tutorials/Introductions
 
 - [GitHub's git tutorial](https://try.github.io/) - Fun, interactive tutorial from GitHub, within the
