@@ -55,7 +55,7 @@ remove the per-group effect.
 ## Meetings
 
 We have a weekly meeting on Mondays 9am PDT / 12pm EDT ([Link to the Google
-Hangouts Call]). This is where we discuss batch effect correction algorithms,
+Hangouts Call](https://hangouts.google.com/hangouts/_/czbiohub.org/batch-fx)). This is where we discuss batch effect correction algorithms,
 how to use them, data access, and analysis results. Hope to see you there!
 
 ## Data Access
